@@ -29,6 +29,15 @@ p {
     border-style: solid;
 }
 
+.normall {
+  float: none;
+}
+
+.normal {
+  background-color: #F2F2F2;
+  float: none;
+}
+
 li {
     float: left;
 }
@@ -43,8 +52,4 @@ li a {
 
 li a:hover {
     background-color: #F2F2F2;
-}
-
-.normal {
-  background-color: #F2F2F2;
 }
