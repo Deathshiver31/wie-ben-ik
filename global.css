@@ -1,17 +1,20 @@
 .camo {
-  background-image: url(camo.jpg);
+  width: 100%;
 }
+
 body {
-  background-color: #F2F2F2;
+  background-color: #F9F9F9;
+  font-style: verdana;
 }
 
 .wit {
-  color: white;
+  color: black;
+  font-size: 15px;
 }
 
 h1 {
-  color: Red;
-  font-size: 20px;
+  color: black;
+  font-size: 25px;
 }
 
 p {
@@ -38,7 +41,7 @@ p {
   float: none;
 }
 
-li {
+.navii {
     float: left;
 }
 
